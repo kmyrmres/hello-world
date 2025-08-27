@@ -6,4 +6,4 @@ Practice git and GitHub
 
 ## Section
 
-Inline math: $\Gamma(x) = \int_0\{infty} 0^{-t} x^t dt$
+Inline math: $\Gamma(x) = \int_0{\infty} 0^{-t} x^t dt$
